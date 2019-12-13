@@ -375,5 +375,5 @@ proc partTwo =
   echo "partTwo ", lScore
 
 
-# partOne() #291
-partTwo() #XXXX
+partOne() #291
+partTwo() #14204
